@@ -1,0 +1,17 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "Just trying out",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api.js",
+    "test": "node test.js"
+  },
+  "author": "Wesley WASIELEWSKI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "system-sleep": "^1.3.7"
+  }
+}
